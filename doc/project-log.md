@@ -22,3 +22,9 @@ Or should I say *TS code*, because I'm so fond of scrtict typing that I'm happy 
 I'm building the project with Node v8 and TS v2.5. Nodejs stuff is still new to me so I'm bound to making mistakes.
 
 Wish me luck...
+
+### Actually coding...
+
+... But only after forcing Git to get his act together. Wasted time for nothing trying to sync the project to GitHub. Oh well, I have (half of) my night for myself.
+
+Let's start by defining the processing classes first, this way I can save the headaches of OAuth2 for later.
