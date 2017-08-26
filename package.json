@@ -1,0 +1,21 @@
+{
+  "name": "twemoji-zipf",
+  "version": "1.0.0",
+  "description": "An experiment in Node to test Zipf's law against Twitter use of emoji.",
+  "main": "dist/main.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "zipf",
+    "experiments",
+    "scripting",
+    "twitter",
+    "emoji"
+  ],
+  "author": "SolarLiner",
+  "license": "MIT"
+}
