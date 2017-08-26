@@ -1,15 +1,11 @@
 ---
-ebook:
-    title: Twemoji and the Zipf law
-    authors: Nathan Graule
-    date: Aug. 26, 2017
 markdown:
     path: ../README.md
     image_dir: ../.github/img
+    ignore_from_front_matter: true
 export_on_save:
     phantomjs: "pdf"
     markdown: true
-output: pdf_document
 ---
 
 # Twemoji and the Zipf law
