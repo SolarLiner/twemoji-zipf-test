@@ -85,3 +85,10 @@ This is the easy part. The Twitter Streaming API allows us to recieve all the tw
 ### Processing data from Twitter
 
 Now comes the hard part. We need to get the mangled, minified data from the Streaming API and process it to get the message content, and from there, extract the emoji(s).
+
+# Project Log
+
+Here lies my thoughts and notes while building the project.  
+As this will surely become longer than the article itself, it will be removed from here. It is already available [here](Project Log.md).
+
+@import "project-log.md"
