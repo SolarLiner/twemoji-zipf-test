@@ -1,12 +1,3 @@
----
-ebook:
-    title: 'Twemoji and the Zipf law'
-    authors: 'Nathan Graule'
-    date: 'Aug. 26, 2017'
-output: pdf_document
----  
-  
-  
 # Twemoji and the Zipf law
   
   
